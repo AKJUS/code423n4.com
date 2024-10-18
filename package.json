@@ -55,7 +55,7 @@
     "gatsby-transformer-sharp": "^3.4.0",
     "hcaptcha": "^0.1.0",
     "https-browserify": "^1.0.0",
-    "isomorphic-dompurify": "^0.19.0",
+    "isomorphic-dompurify": "^2.10.0",
     "jsonwebtoken": "^8.5.1",
     "jszip": "^3.10.1",
     "kickbox": "^2.0.4",
