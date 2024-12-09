@@ -33,7 +33,7 @@
     "eslint": "^7.5.0",
     "esm": "^3.2.25",
     "form-data": "^4.0.0",
-    "gatsby": "^3.0.4",
+    "gatsby": "^4.5.0",
     "gatsby-image": "^3.0.0",
     "gatsby-plugin-gatsby-cloud": "^2.0.0",
     "gatsby-plugin-manifest": "^3.4.0",
