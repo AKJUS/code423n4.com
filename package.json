@@ -82,7 +82,7 @@
     "remark-math": "^5.1.1",
     "remark-parse": "^6.0.0",
     "sass": "^1.32.12",
-    "sharp": "0.28.2",
+    "sharp": "0.32.6",
     "simplex-noise": "^3.0.1",
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
